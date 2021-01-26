@@ -3,4 +3,4 @@ Resolusi
 - Konsisten
 - Laravel
 - Git
-- Optimasi
+- Ganti Resolusi
