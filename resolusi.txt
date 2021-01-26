@@ -2,3 +2,5 @@ Resolusi
 - Belajar
 - Konsisten
 - Laravel
+- Git
+- Optimasi
